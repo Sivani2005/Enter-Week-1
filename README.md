@@ -1,4 +1,4 @@
-# Enter-Week-1
+# GHG Emission Week-3
 
 This repository consists of the AI project: Supply Chain Emissions Modeling Using Industry and Commodity Data (2010–2016)
 
